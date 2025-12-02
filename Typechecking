@@ -119,6 +119,5 @@ But this is not a conversion in the arithmetic sense — it’s runtime type ide
 - **C**: compiler decides conversions at compile time; runtime code is emitted only when the machine must actually transform bits.
 - **C++**: same, but with additional conversion machinery (constructors, operators). Only `dynamic_cast` to polymorphic types produces a true runtime *type check*.
 
-If you want, I can illustrate this with a specific snippet and show which instructions are normally emitted or optimized away.
 
 ChatGPT can make mistakes. Check important info. See Cookie Preferences.
