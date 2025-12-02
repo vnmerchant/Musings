@@ -120,4 +120,4 @@ But this is not a conversion in the arithmetic sense — it’s runtime type ide
 - **C++**: same, but with additional conversion machinery (constructors, operators). Only `dynamic_cast` to polymorphic types produces a true runtime *type check*.
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
